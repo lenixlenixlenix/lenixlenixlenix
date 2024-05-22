@@ -14,6 +14,18 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
+```
+
+   _____                _     _                      _       _              
+  / ____|              | |   | |                    (_)     (_)             
+ | |  __ _ __ ___  __ _| |_  | |__   ___  __ _  __ _ _ _ __  _ _ __   __ _  
+ | | |_ | '__/ _ \/ _` | __| | '_ \ / _ \/ _` |/ _` | | '_ \| | '_ \ / _` | 
+ | |__| | | |  __/ (_| | |_  | |_) |  __/ (_| | (_| | | | | | | | | | (_| | 
+  \_____|_|  \___|\__,_|\__| |_.__/ \___|\__, |\__, |_|_| |_|_|_| |_|\__, | 
+                                          __/ | __/ |                 __/ | 
+                                         |___/ |___/                 |___/  
+
+```
 
 <h2></h2>
 
