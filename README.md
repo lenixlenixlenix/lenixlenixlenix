@@ -2,11 +2,7 @@
   Hi there, I'm <a href="https://t.me/ubermuchacho">Leonid</a>
   <img src="https://i.pinimg.com/originals/e8/ec/23/e8ec232e76df62972b9b5dae3e2c5338.gif" height="50"/>
   <br><br>
-  <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
+
 </h2>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
