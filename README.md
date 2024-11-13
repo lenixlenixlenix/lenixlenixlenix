@@ -1,5 +1,4 @@
 <h2 align="center">
-  Hi there, I'm <a href="https://t.me/ubermuchacho">Leonid</a>
   <img src="https://i.pinimg.com/originals/e8/ec/23/e8ec232e76df62972b9b5dae3e2c5338.gif" height="50"/>
   <br><br>
 
